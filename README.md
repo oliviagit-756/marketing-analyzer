@@ -1,4 +1,4 @@
-# AI Personalized Marketing Tool
+# ML Marketing tool
 
 An AI-powered customer segmentation and personalized campaign generation tool built using **Python**, **K-Means Clustering**, and **Streamlit**.
 
